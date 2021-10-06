@@ -2,17 +2,25 @@
   "manifestVersion": 1,
   "id": "deployment-group-tags-to-variables",
   "name": "Deployment Group Tags to Variables",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "arcady",
   "targets": [
     {
       "id": "Microsoft.VisualStudio.Services"
     }
   ],
-  "description": "Tools for building/releasing with Fabrikam. Includes one build/release task.",
+  "description": "By default, you're not able to use Custom Conditions on Deployment Group Tags. This pipeline step adds the tags of the current deployment group target to your pipeline variables.",
   "categories": ["Azure Pipelines"],
   "icons": {
     "default": "images/extension-icon.png"
+  },
+  "content": {
+    "details": {
+      "path": "README.md"
+    },
+    "license": {
+      "path": "LICENSE"
+    }
   },
   "files": [
     {

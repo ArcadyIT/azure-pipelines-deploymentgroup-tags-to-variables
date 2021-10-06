@@ -119,4 +119,4 @@ dist
 
 # Azure Pipelines
 .taskkey
-arcady.deployment-group-tags-to-variables-1.0.0.vsix
+*.vsix

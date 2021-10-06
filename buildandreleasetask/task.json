@@ -3,7 +3,7 @@
   "id": "cf373d71-6909-44b3-8f7b-ace8d51e9d94",
   "name": "deployment-group-tags-to-variables",
   "friendlyName": "Deployment Group Tags to Variables",
-  "description": "By default, you're not able to use Custom Conditions on Deployment Group Tags. This pipeline step adds the tags of the current deployment group target to your pipeline variables.",
+  "description": "This pipeline step adds the tags of the current deployment group target to your pipeline variables.",
   "helpMarkDown": "",
   "category": "Utility",
   "author": "Wessel Loth",
