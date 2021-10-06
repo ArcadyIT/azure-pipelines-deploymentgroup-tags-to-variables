@@ -1,9 +1,9 @@
 {
   "manifestVersion": 1,
-  "id": "build-release-task",
-  "name": "Fabrikam Build and Release Tools",
-  "version": "0.0.1",
-  "publisher": "fabrikam",
+  "id": "deployment-group-tags-to-variables",
+  "name": "Deployment Group Tags to Variables",
+  "version": "1.0.0",
+  "publisher": "arcady",
   "targets": [
     {
       "id": "Microsoft.VisualStudio.Services"
