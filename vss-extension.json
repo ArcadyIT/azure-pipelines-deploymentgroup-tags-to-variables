@@ -2,7 +2,7 @@
   "manifestVersion": 1,
   "id": "deployment-group-tags-to-variables",
   "name": "Deployment Group Tags to Variables",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "arcady",
   "targets": [
     {
