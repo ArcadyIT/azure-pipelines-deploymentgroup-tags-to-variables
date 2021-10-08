@@ -12,15 +12,15 @@
     "Minor": 0,
     "Patch": 0
   },
-  "instanceNameFormat": "Echo $(samplestring)",
+  "instanceNameFormat": "Add Deployment Group Tags to Release Variables",
   "inputs": [
     {
-      "name": "samplestring",
+      "name": "variablename",
       "type": "string",
-      "label": "Sample String",
-      "defaultValue": "",
+      "label": "Variable Name",
+      "defaultValue": "CurrentAgent.Tags",
       "required": true,
-      "helpMarkDown": "A sample string"
+      "helpMarkDown": "The name of the variable that should be added/modified with the deployment target agent tags."
     }
   ],
   "execution": {
